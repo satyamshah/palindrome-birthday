@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #60fa9b;
+}
+
+.heading {
+    margin-top: 1.5rem;
+}
+
+.palindrome-label, .date-input, .checkBtn, .outputDiv {
+    display: block;
+    margin: 1rem auto;
+}
+
+.palindrome-label {
+    font-size: 2rem;
+}
+
+.date-input {
+    border: 2px solid #1E40AF;
+    border-radius: 2rem;
+    padding: 1rem;
+    font-size: 1.1rem;
+    width: 15rem;
+}
+
+.checkBtn {
+    border-radius: 2rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #e5f689;
+    color: #020100;
+    cursor: pointer;
+}
+
+.outputDiv {
+    margin: auto;
+    display: block;
+    height: 150px;
+    max-width: 65rem;
+    font-size: 1.5rem;
+    padding: 1rem
+}
+
+.footer ul {
+    padding-inline-start: 0rem;
+}
+
+.list-inline {
+    display: inline;
+    padding: 0.5rem
+}
